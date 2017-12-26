@@ -149,6 +149,8 @@ public class Store implements Serializable
    * Searches for all documents that contain the search terms within a string query. Returns an
    * ArrayList of all documents found within the collection.
    * 
+   * **Only function of this class created by Mitchell Mesecher**
+   * 
    * @param query
    *          The string query to search for document postings.
    * @return ArrayList of all documents that match the query search terms.
